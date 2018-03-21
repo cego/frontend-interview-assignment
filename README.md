@@ -17,11 +17,11 @@ Develop a Single Page Application (SPA). The SPA should contain an overview of a
 # Tab 1
 **The Product List**
 
-This should be an overview of all the products in the JSON file.
+This should be an overview of all the products in the JSON file. Where should be able to view each product in a single product view.
 
 # Tab 2
 **The Product View**
 
-This should be an over of a single product from the products in the JSON file.
+This should be the view of a product in the products list.
 
 * **Andreas Quist** - *Initial work* - [clowNay](https://github.com/clowNay)
