@@ -14,12 +14,10 @@ Develop a Single Page Application (SPA). The SPA should contain an overview of a
 * [VueJS 2 for SPA](https://https://vuejs.org/)
 * [Webpack for bundling](https://webpack.js.org/)
 
-# Tab 1
 **The Product List**
 
 This should be an overview of all the products in the JSON file. Where should be able to view each product in a single product view.
 
-# Tab 2
 **The Product View**
 
 This should be the view of a product in the products list.
