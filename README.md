@@ -10,8 +10,6 @@ Download or clone this repo. Solve the task below. Push your code to a public re
 
 Develop a Single Page Application (SPA). The SPA should contain an overview of all the games and view of a single game of those games, use the provided JSON data to produce the data you need. You need to solve the solution with the usage of **JavaScript** and also it needs to include usage of a **Bundling Tool**.
 
-It is also required to follow the frontend code convention which is located here:
-
 
 ## Requirements
 * [VueJS 2 for SPA](https://vuejs.org/)
