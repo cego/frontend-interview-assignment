@@ -14,12 +14,12 @@ Develop a Single Page Application (SPA). The SPA should contain an overview of a
 ## Requirements
 * [VueJS 2 for SPA](https://vuejs.org/)
 * [Webpack for bundling](https://webpack.js.org/)
-* Code should follow [Frontend Code Convention](frontend_code_convention.md)
+* Code should follow the [Frontend Code Convention](frontend_code_convention.md)
 * The final result should of course look pretty
 
 **The Game List**
 
-This should be an overview of all the games in the JSON file. Where should be able to view each game in a single game view.
+This should be an overview of all the games in the JSON file. Where you should be able to view each game in a single game view.
 
 **The Game View**
 
