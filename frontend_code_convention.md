@@ -97,7 +97,6 @@ BEM - meaning _block, element, modifier_ - is a class naming pattern that encour
 * For long strings, you should concatenate lines and not use multiline string literals (“\”).
 * Define arrays and objects using `[]` and `{}` instead of `new Array()` and `new Object(`).
 * You must never override built in prototypes, eg. `Array.prototype`.
-* Code must be able to pass through ESLint: <http://eslint.org/>. For JustCasino, we lint through webpack.
 * You should group logically related pieces of code using newlines.
 * You should not use for-in-loop to iterate over arrays. It may break if there is something unexpected in the prototype. Use classic for loop.
 * You should strive not to rely on the user agent string, but feature detection.
