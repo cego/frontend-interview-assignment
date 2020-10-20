@@ -25,4 +25,8 @@ This should be an overview of all the games in the JSON file. Where you should b
 
 This should be the view of a game in the games list.
 
+## Documentation
+
+Your solution should include a short readme describing your solution, how to use/test it and any final considerations such as known errors, next steps, optimizations, security concerns etc. Don’t worry we are not expecting this thing to be perfect.
+
 * **Andreas Quist** - *Initial work* - [clowNay](https://github.com/clowNay)
